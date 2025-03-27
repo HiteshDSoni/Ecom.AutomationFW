@@ -6,7 +6,7 @@ public class Practice {
 		
 		System.out.println("Testing new script");
 		
-		System.out.println("Testing new script done");
+		System.out.println("Testings new script done");
 	}
 	
 }
